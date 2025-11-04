@@ -6,3 +6,4 @@
 
 ## Tools
 - Visual Studio COde
+- Azure Function Core Tools
