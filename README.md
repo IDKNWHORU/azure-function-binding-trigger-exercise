@@ -3,3 +3,6 @@
 # Dependencies
 - Azure Function App
 - Azure Event Hubs
+
+## Tools
+- Visual Studio COde
